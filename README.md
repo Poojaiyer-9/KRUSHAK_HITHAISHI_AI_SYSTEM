@@ -1,4 +1,4 @@
-# 🌾 Krushak Hithaishi (ಕೃಷಕ ಹಿತೈಷಿ)
+# 🌾 Krushak Hithaishi 
 ### *AI-Powered Multimodal Crop Disease Diagnosis & Farmer Advisory Ecosystem*
 
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
